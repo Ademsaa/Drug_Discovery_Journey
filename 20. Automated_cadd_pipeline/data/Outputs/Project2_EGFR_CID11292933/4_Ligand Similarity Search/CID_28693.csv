@@ -1,0 +1,18 @@
+Property,Value
+name,Metergoline
+iupac_name,"benzyl N-[[(6aR,9S,10aR)-4,7-dimethyl-6,6a,8,9,10,10a-hexahydroindolo[4,3-fg]quinolin-9-yl]methyl]carbamate"
+smiles,CN1CC(CC2C1CC3=CN(C4=CC=CC2=C34)C)CNC(=O)OCC5=CC=CC=C5
+cid,28693
+inchi,"InChI=1S/C25H29N3O2/c1-27-14-18(13-26-25(29)30-16-17-7-4-3-5-8-17)11-21-20-9-6-10-22-24(20)19(12-23(21)27)15-28(22)2/h3-10,15,18,21,23H,11-14,16H2,1-2H3,(H,26,29)/t18-,21+,23+/m0/s1"
+inchikey,WZHJKEUHNJHDLS-QTGUNEKASA-N
+mol_weight,403.526
+num_H_acceptors,3
+num_H_donors,1
+logp,4.06
+tpsa,46.5
+num_rot_bonds,4
+saturation,0.4
+drug_score_qed,0.71
+drug_score_lipinski,1.0
+drug_score_custom,0.79
+drug_score_total,0.78

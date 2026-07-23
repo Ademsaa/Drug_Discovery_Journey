@@ -1,0 +1,150 @@
+MODEL 1
+REMARK minimizedAffinity -7.3331337
+REMARK minimizedRMSD -1
+REMARK  Name = 
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      15.274  28.276   7.449  0.00  0.00    +0.148 C 
+ATOM      2  C   UNL     1      14.333  29.263   6.728  0.00  0.00    +0.157 C 
+ATOM      3  N   UNL     1      15.081  30.398   6.161  0.00  0.00    -0.305 N 
+ATOM      4  C   UNL     1      16.195  30.044   5.271  0.00  0.00    +0.157 C 
+ATOM      5  C   UNL     1      17.170  29.087   5.995  0.00  0.00    +0.148 C 
+ATOM      6  N   UNL     1      16.422  27.887   6.538  0.00  0.00    +0.229 N 
+ATOM      7  C   UNL     1      15.329  31.452   7.043  0.00  0.00    +0.122 A 
+ATOM      8  N   UNL     1      15.359  31.182   8.365  0.00  0.00    -0.232 NA
+ATOM      9  C   UNL     1      15.597  32.184   9.236  0.00  0.00    +0.073 A 
+ATOM     10  C   UNL     1      15.612  31.920  10.601  0.00  0.00    +0.028 A 
+ATOM     11  C   UNL     1      15.854  32.924  11.543  0.00  0.00    +0.002 A 
+ATOM     12  C   UNL     1      16.090  34.227  11.122  0.00  0.00    +0.001 A 
+ATOM     13  C   UNL     1      16.081  34.521   9.761  0.00  0.00    +0.010 A 
+ATOM     14  C   UNL     1      15.836  33.507   8.818  0.00  0.00    +0.001 A 
+ATOM     15  C   UNL     1      15.814  33.768   7.447  0.00  0.00    +0.013 A 
+ATOM     16  C   UNL     1      15.558  32.733   6.554  0.00  0.00    +0.044 A 
+ATOM     17  H   UNL     1      17.074  27.288   7.060  0.00  0.00    +0.201 HD
+ATOM     18  H   UNL     1      16.058  27.329   5.757  0.00  0.00    +0.201 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 2
+REMARK minimizedAffinity -7.04214239
+REMARK minimizedRMSD -1
+REMARK  Name = 
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      21.592  32.550  12.874  0.00  0.00    +0.148 C 
+ATOM      2  C   UNL     1      21.695  34.089  12.884  0.00  0.00    +0.157 C 
+ATOM      3  N   UNL     1      21.316  34.643  14.195  0.00  0.00    -0.305 N 
+ATOM      4  C   UNL     1      22.040  34.095  15.350  0.00  0.00    +0.157 C 
+ATOM      5  C   UNL     1      21.911  32.555  15.377  0.00  0.00    +0.148 C 
+ATOM      6  N   UNL     1      22.349  31.967  14.052  0.00  0.00    +0.229 N 
+ATOM      7  C   UNL     1      19.947  34.844  14.386  0.00  0.00    +0.122 A 
+ATOM      8  N   UNL     1      19.087  34.095  13.665  0.00  0.00    -0.232 NA
+ATOM      9  C   UNL     1      17.760  34.273  13.833  0.00  0.00    +0.073 A 
+ATOM     10  C   UNL     1      16.865  33.520  13.081  0.00  0.00    +0.028 A 
+ATOM     11  C   UNL     1      15.482  33.666  13.219  0.00  0.00    +0.002 A 
+ATOM     12  C   UNL     1      14.969  34.584  14.128  0.00  0.00    +0.001 A 
+ATOM     13  C   UNL     1      15.842  35.351  14.895  0.00  0.00    +0.010 A 
+ATOM     14  C   UNL     1      17.232  35.200  14.751  0.00  0.00    +0.001 A 
+ATOM     15  C   UNL     1      18.135  35.958  15.499  0.00  0.00    +0.013 A 
+ATOM     16  C   UNL     1      19.501  35.778  15.314  0.00  0.00    +0.044 A 
+ATOM     17  H   UNL     1      22.208  30.949  14.068  0.00  0.00    +0.201 HD
+ATOM     18  H   UNL     1      23.354  32.131  13.921  0.00  0.00    +0.201 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 3
+REMARK minimizedAffinity -7.01953316
+REMARK minimizedRMSD -1
+REMARK  Name = 
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      17.563  34.715  14.309  0.00  0.00    +0.148 C 
+ATOM      2  C   UNL     1      17.178  33.226  14.204  0.00  0.00    +0.157 C 
+ATOM      3  N   UNL     1      18.030  32.519  13.232  0.00  0.00    -0.305 N 
+ATOM      4  C   UNL     1      19.478  32.637  13.452  0.00  0.00    +0.157 C 
+ATOM      5  C   UNL     1      19.886  34.126  13.518  0.00  0.00    +0.148 C 
+ATOM      6  N   UNL     1      19.055  34.854  14.553  0.00  0.00    +0.229 N 
+ATOM      7  C   UNL     1      17.616  32.606  11.901  0.00  0.00    +0.122 A 
+ATOM      8  N   UNL     1      16.863  33.664  11.535  0.00  0.00    -0.232 NA
+ATOM      9  C   UNL     1      16.452  33.768  10.255  0.00  0.00    +0.073 A 
+ATOM     10  C   UNL     1      15.661  34.845   9.872  0.00  0.00    +0.028 A 
+ATOM     11  C   UNL     1      15.211  34.998   8.558  0.00  0.00    +0.002 A 
+ATOM     12  C   UNL     1      15.555  34.059   7.593  0.00  0.00    +0.001 A 
+ATOM     13  C   UNL     1      16.347  32.970   7.948  0.00  0.00    +0.010 A 
+ATOM     14  C   UNL     1      16.796  32.821   9.272  0.00  0.00    +0.001 A 
+ATOM     15  C   UNL     1      17.586  31.739   9.662  0.00  0.00    +0.013 A 
+ATOM     16  C   UNL     1      17.998  31.631  10.986  0.00  0.00    +0.044 A 
+ATOM     17  H   UNL     1      19.301  35.852  14.548  0.00  0.00    +0.201 HD
+ATOM     18  H   UNL     1      19.278  34.492  15.488  0.00  0.00    +0.201 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 4
+REMARK minimizedAffinity -6.90102196
+REMARK minimizedRMSD -1
+REMARK  Name = 
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      21.941  35.012  15.207  0.00  0.00    +0.148 C 
+ATOM      2  C   UNL     1      21.925  33.503  14.890  0.00  0.00    +0.157 C 
+ATOM      3  N   UNL     1      21.653  33.258  13.463  0.00  0.00    -0.305 N 
+ATOM      4  C   UNL     1      22.544  33.948  12.519  0.00  0.00    +0.157 C 
+ATOM      5  C   UNL     1      22.538  35.468  12.798  0.00  0.00    +0.148 C 
+ATOM      6  N   UNL     1      22.869  35.738  14.251  0.00  0.00    +0.229 N 
+ATOM      7  C   UNL     1      20.303  33.235  13.106  0.00  0.00    +0.122 A 
+ATOM      8  N   UNL     1      19.428  33.908  13.881  0.00  0.00    -0.232 NA
+ATOM      9  C   UNL     1      18.119  33.900  13.557  0.00  0.00    +0.073 A 
+ATOM     10  C   UNL     1      17.207  34.575  14.360  0.00  0.00    +0.028 A 
+ATOM     11  C   UNL     1      15.840  34.597  14.064  0.00  0.00    +0.002 A 
+ATOM     12  C   UNL     1      15.363  33.932  12.941  0.00  0.00    +0.001 A 
+ATOM     13  C   UNL     1      16.254  33.247  12.119  0.00  0.00    +0.010 A 
+ATOM     14  C   UNL     1      17.627  33.229  12.421  0.00  0.00    +0.001 A 
+ATOM     15  C   UNL     1      18.546  32.547  11.622  0.00  0.00    +0.013 A 
+ATOM     16  C   UNL     1      19.893  32.550  11.968  0.00  0.00    +0.044 A 
+ATOM     17  H   UNL     1      22.811  36.747  14.433  0.00  0.00    +0.201 HD
+ATOM     18  H   UNL     1      23.837  35.452  14.441  0.00  0.00    +0.201 HD
+ENDROOT
+TORSDOF 0
+ENDMDL
+MODEL 5
+REMARK minimizedAffinity -6.77748251
+REMARK minimizedRMSD -1
+REMARK  Name = 
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      18.914  35.233  17.112  0.00  0.00    +0.148 C 
+ATOM      2  C   UNL     1      18.080  36.261  16.322  0.00  0.00    +0.157 C 
+ATOM      3  N   UNL     1      16.772  35.705  15.933  0.00  0.00    -0.305 N 
+ATOM      4  C   UNL     1      15.963  35.157  17.030  0.00  0.00    +0.157 C 
+ATOM      5  C   UNL     1      16.772  34.094  17.807  0.00  0.00    +0.148 C 
+ATOM      6  N   UNL     1      18.098  34.668  18.260  0.00  0.00    +0.229 N 
+ATOM      7  C   UNL     1      16.766  34.959  14.753  0.00  0.00    +0.122 A 
+ATOM      8  N   UNL     1      17.919  34.379  14.360  0.00  0.00    -0.232 NA
+ATOM      9  C   UNL     1      17.937  33.654  13.223  0.00  0.00    +0.073 A 
+ATOM     10  C   UNL     1      19.125  33.068  12.800  0.00  0.00    +0.028 A 
+ATOM     11  C   UNL     1      19.195  32.306  11.630  0.00  0.00    +0.002 A 
+ATOM     12  C   UNL     1      18.055  32.118  10.856  0.00  0.00    +0.001 A 
+ATOM     13  C   UNL     1      16.852  32.693  11.256  0.00  0.00    +0.010 A 
+ATOM     14  C   UNL     1      16.788  33.458  12.434  0.00  0.00    +0.001 A 
+ATOM     15  C   UNL     1      15.600  34.054  12.859  0.00  0.00    +0.013 A 
+ATOM     16  C   UNL     1      15.590  34.810  14.027  0.00  0.00    +0.044 A 
+ATOM     17  H   UNL     1      18.645  33.935  18.728  0.00  0.00    +0.201 HD
+ATOM     18  H   UNL     1      17.932  35.410  18.951  0.00  0.00    +0.201 HD
+ENDROOT
+TORSDOF 0
+ENDMDL

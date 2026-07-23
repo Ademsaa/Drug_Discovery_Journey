@@ -1,0 +1,6 @@
+CID,mode,affinity[kcal/mol],dist from best mode_rmsd_l.b,dist from best mode_rmsd_u.b,drug_score_total
+2426,1,-8.8,0.0,0.0,0.7
+2426,2,-8.7,1.844,2.303,0.7
+2426,3,-8.7,2.975,4.685,0.7
+2426,4,-8.7,3.624,5.22,0.7
+2426,5,-8.4,2.601,3.582,0.7

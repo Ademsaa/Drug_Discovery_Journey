@@ -1,0 +1,18 @@
+Property,Value
+name,Flupirtine
+iupac_name,ethyl N-[2-amino-6-[(4-fluorophenyl)methylamino]-3-pyridinyl]carbamate
+smiles,CCOC(=O)NC1=C(N=C(C=C1)NCC2=CC=C(C=C2)F)N
+cid,53276
+inchi,"InChI=1S/C15H17FN4O2/c1-2-22-15(21)19-12-7-8-13(20-14(12)17)18-9-10-3-5-11(16)6-4-10/h3-8H,2,9H2,1H3,(H,19,21)(H3,17,18,20)"
+inchikey,JUUFBMODXQKSTD-UHFFFAOYSA-N
+mol_weight,304.325
+num_H_acceptors,5
+num_H_donors,3
+logp,2.98
+tpsa,89.27
+num_rot_bonds,5
+saturation,0.2
+drug_score_qed,0.79
+drug_score_lipinski,1.0
+drug_score_custom,0.69
+drug_score_total,0.79

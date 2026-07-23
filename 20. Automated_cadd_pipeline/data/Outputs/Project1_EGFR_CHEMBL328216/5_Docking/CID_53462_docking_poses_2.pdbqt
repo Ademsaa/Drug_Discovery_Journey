@@ -1,0 +1,34 @@
+REMARK  Name = =
+MODEL 2
+REMARK minimizedAffinity -6.83618927
+REMARK minimizedRMSD -1
+REMARK  Name = 
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  N_2
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      18.386  32.663  10.959  1.00  0.00    +0.152 C 
+ATOM      2  N   UNL     1      17.202  33.005  11.707  1.00  0.00    -0.315 N 
+ATOM      3  C   UNL     1      17.161  33.682  12.906  1.00  0.00    +0.070 A 
+ATOM      4  C   UNL     1      15.803  33.758  13.206  1.00  0.00    +0.100 A 
+ATOM      5  C   UNL     1      15.396  34.406  14.399  1.00  0.00    +0.028 A 
+ATOM      6  C   UNL     1      16.362  34.964  15.262  1.00  0.00    +0.073 A 
+ATOM      7  C   UNL     1      17.703  34.859  14.913  1.00  0.00    +0.030 A 
+ATOM      8  C   UNL     1      18.143  34.224  13.740  1.00  0.00    +0.030 A 
+ATOM      9  N   UNL     1      16.014  35.586  16.402  1.00  0.00    -0.255 NA
+ATOM     10  C   UNL     1      14.696  35.664  16.704  1.00  0.00    +0.111 A 
+ATOM     11  C   UNL     1      13.682  35.148  15.916  1.00  0.00    +0.020 A 
+ATOM     12  C   UNL     1      14.037  34.504  14.739  1.00  0.00    +0.013 A 
+ATOM     13  N   UNL     1      15.052  33.149  12.225  1.00  0.00    -0.214 NA
+ATOM     14  C   UNL     1      15.911  32.708  11.342  1.00  0.00    +0.194 A 
+ATOM     15  N   UNL     1      15.604  32.051  10.219  1.00  0.00    -0.329 N 
+ATOM     16  H   UNL     1      14.626  31.871  10.022  1.00  0.00    +0.145 HD
+ATOM     17  H   UNL     1      16.266  31.709   9.537  1.00  0.00    +0.145 HD
+ENDROOT
+TORSDOF 0

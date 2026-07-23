@@ -1,0 +1,92 @@
+REMARK  Name = =
+MODEL 2
+REMARK minimizedAffinity -8.20497704
+REMARK minimizedRMSD -1
+REMARK  Name = 
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CB_1  and  CA_2
+REMARK    2  A    between atoms: CA_2  and  C_3
+REMARK    3  A    between atoms: CA_2  and  N_5
+REMARK    4  A    between atoms: C_3  and  O_4
+REMARK    5  A    between atoms: C_6  and  C_8
+REMARK    6  A    between atoms: N_10  and  C_24
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_6  and  C_7
+REMARK    2  A    between atoms: C_7  and  N_8
+REMARK    3  A    between atoms: N_20  and  CA_25
+REMARK    4  A    between atoms: CA_25  and  C_26
+REMARK    5  A    between atoms: C_26  and  O_27
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNK A   0      20.846  34.289  14.790  1.00  0.00    +0.143 C 
+ATOM      2  C   UNK A   0      21.034  35.434  13.828  1.00  0.00    +0.148 C 
+ATOM      3  N   UNK A   0      22.466  35.070  13.341  1.00  0.00    +0.240 N 
+ATOM      4  C   UNK A   0      22.548  33.496  13.484  1.00  0.00    +0.100 C 
+ATOM      5  N   UNK A   0      18.625  33.890  17.570  1.00  0.00    -0.360 NA
+ATOM      6  C   UNK A   0      18.025  33.296  15.880  1.00  0.00    +0.047 A 
+ATOM      7  C   UNK A   0      16.980  33.718  15.051  1.00  0.00    +0.026 A 
+ATOM      8  C   UNK A   0      17.119  33.553  13.626  1.00  0.00    +0.003 A 
+ATOM      9  C   UNK A   0      18.273  33.138  12.867  1.00  0.00    +0.009 A 
+ATOM     10  C   UNK A   0      19.474  32.754  13.471  1.00  0.00    -0.007 A 
+ATOM     11  C   UNK A   0      19.431  32.575  15.015  1.00  0.00    +0.011 A 
+ATOM     12  C   UNK A   0      21.018  32.911  12.735  1.00  0.00    +0.005 C 
+ATOM     13  C   UNK A   0      21.257  32.632  13.951  1.00  0.00    +0.000 C 
+ATOM     14  C   UNK A   0      22.760  35.561  11.965  1.00  0.00    +0.191 C 
+ATOM     15  H   UNK A   0      23.155  35.478  13.986  1.00  0.00    +0.204 HD
+ATOM     16  H   UNK A   0      18.339  34.829  17.794  1.00  0.00    +0.165 HD
+ATOM     17  C   UNK A   0      19.743  34.173  16.045  1.00  0.00    +0.225 C 
+ATOM     18  O   UNK A   0      19.642  32.935  16.343  1.00  0.00    -0.275 OA
+ENDROOT
+BRANCH   5  19
+ATOM     19  C   UNK A   0      20.505  33.604  17.725  1.00  0.00    +0.087 C 
+BRANCH  19  21
+ATOM     20  C   UNK A   0      22.771  32.995  15.370  1.00  0.00    +0.096 C 
+ATOM     21  C   UNK A   0      21.101  32.760  16.221  1.00  0.00    -0.016 C 
+ENDBRANCH  19  21
+ENDBRANCH   5  19
+TORSDOF 2
+REMARK  Name = =
+MODEL 2
+REMARK minimizedAffinity -8.20497704
+REMARK minimizedRMSD -1
+REMARK  Name = 
+REMARK  6 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: CB_1  and  CA_2
+REMARK    2  A    between atoms: CA_2  and  C_3
+REMARK    3  A    between atoms: CA_2  and  N_5
+REMARK    4  A    between atoms: C_3  and  O_4
+REMARK    5  A    between atoms: C_6  and  C_8
+REMARK    6  A    between atoms: N_10  and  C_24
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+REMARK  5 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_6  and  C_7
+REMARK    2  A    between atoms: C_7  and  N_8
+REMARK    3  A    between atoms: N_20  and  CA_25
+REMARK    4  A    between atoms: CA_25  and  C_26
+REMARK    5  A    between atoms: C_26  and  O_27
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  CB  ALA A   1      18.024  37.741  18.515  1.00  0.00    +0.030 C 
+ATOM      2  CA  ALA A   1      17.674  36.428  17.792  1.00  0.00    +0.095 C 
+ENDROOT
+BRANCH   2   3
+ATOM      3  N   ALA A   1      18.822  35.875  16.711  1.00  0.00    -0.310 NA
+ATOM      4  H   ALA A   1      19.044  36.801  16.322  1.00  0.00    +0.149 HD
+ENDBRANCH   2   3
+BRANCH   2   5
+ATOM      5  C   ALA A   1      16.187  36.326  17.374  1.00  0.00    +0.177 C 
+BRANCH   5   6
+ATOM      6  O   ALA A   1      15.629  35.101  17.845  1.00  0.00    -0.393 OA
+ATOM      7  H   ALA A   1      14.705  35.068  17.541  1.00  0.00    +0.209 HD
+ENDBRANCH   5   6
+ENDBRANCH   2   5
+TORSDOF 3

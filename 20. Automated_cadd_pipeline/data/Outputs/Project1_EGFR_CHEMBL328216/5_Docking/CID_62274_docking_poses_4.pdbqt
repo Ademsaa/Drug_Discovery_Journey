@@ -1,0 +1,36 @@
+REMARK  Name = =
+MODEL 4
+REMARK minimizedAffinity -7.07966375
+REMARK minimizedRMSD -1
+REMARK  Name = 
+REMARK  2 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_1  and  C_2
+REMARK    2  A    between atoms: N_12  and  C_16
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+REMARK  0 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      17.362  36.493  17.257  1.00  0.00    +0.046 C 
+ATOM      2  C   UNL     1      17.340  35.619  16.036  1.00  0.00    -0.023 A 
+ATOM      3  C   UNL     1      18.578  35.251  15.450  1.00  0.00    +0.033 A 
+ATOM      4  C   UNL     1      18.700  34.451  14.325  1.00  0.00    +0.073 A 
+ATOM      5  C   UNL     1      17.529  33.969  13.720  1.00  0.00    +0.028 A 
+ATOM      6  C   UNL     1      17.632  33.157  12.578  1.00  0.00    +0.013 A 
+ATOM      7  C   UNL     1      18.890  32.851  12.079  1.00  0.00    +0.020 A 
+ATOM      8  C   UNL     1      19.992  33.369  12.737  1.00  0.00    +0.111 A 
+ATOM      9  N   UNL     1      19.921  34.154  13.839  1.00  0.00    -0.255 NA
+ATOM     10  C   UNL     1      16.263  34.305  14.263  1.00  0.00    +0.100 A 
+ATOM     11  C   UNL     1      16.184  35.116  15.402  1.00  0.00    +0.073 A 
+ATOM     12  N   UNL     1      14.822  35.218  15.623  1.00  0.00    -0.315 N 
+ATOM     13  C   UNL     1      14.170  34.493  14.648  1.00  0.00    +0.194 A 
+ATOM     14  N   UNL     1      15.013  33.937  13.822  1.00  0.00    -0.214 NA
+ATOM     15  N   UNL     1      12.839  34.388  14.580  1.00  0.00    -0.329 N 
+ATOM     16  C   UNL     1      14.138  35.937  16.668  1.00  0.00    +0.152 C 
+ATOM     17  H   UNL     1      12.177  34.813  15.214  1.00  0.00    +0.145 HD
+ATOM     18  H   UNL     1      12.442  33.833  13.828  1.00  0.00    +0.145 HD
+ENDROOT
+TORSDOF 0

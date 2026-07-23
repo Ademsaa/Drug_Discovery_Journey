@@ -1,0 +1,37 @@
+REMARK  Name = =
+MODEL 5
+REMARK minimizedAffinity -7.13951397
+REMARK minimizedRMSD -1
+REMARK  Name = 
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_7  and  N_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+REMARK  1 active torsions:
+REMARK  status: ('A' for Active; 'I' for Inactive)
+REMARK    1  A    between atoms: C_7  and  N_15
+REMARK                            x       y       z     vdW  Elec       q    Type
+REMARK                         _______ _______ _______ _____ _____    ______ ____
+ROOT
+ATOM      1  C   UNL     1      13.872  35.404  16.074  1.00  0.00    +0.001 A 
+ATOM      2  C   UNL     1      14.970  35.756  16.841  1.00  0.00    +0.002 A 
+ATOM      3  C   UNL     1      16.251  35.427  16.397  1.00  0.00    +0.028 A 
+ATOM      4  C   UNL     1      16.467  34.752  15.203  1.00  0.00    +0.073 A 
+ATOM      5  C   UNL     1      15.364  34.384  14.407  1.00  0.00    +0.022 A 
+ATOM      6  C   UNL     1      14.066  34.726  14.870  1.00  0.00    +0.012 A 
+ATOM      7  C   UNL     1      15.637  33.687  13.195  1.00  0.00    +0.043 A 
+ATOM      8  C   UNL     1      16.988  33.411  12.835  1.00  0.00    +0.022 A 
+ATOM      9  C   UNL     1      17.389  32.735  11.652  1.00  0.00    +0.012 A 
+ATOM     10  C   UNL     1      18.734  32.492  11.367  1.00  0.00    +0.001 A 
+ATOM     11  C   UNL     1      19.706  32.921  12.256  1.00  0.00    +0.002 A 
+ATOM     12  C   UNL     1      19.325  33.587  13.420  1.00  0.00    +0.028 A 
+ATOM     13  C   UNL     1      17.993  33.839  13.725  1.00  0.00    +0.073 A 
+ATOM     14  N   UNL     1      17.735  34.484  14.868  1.00  0.00    -0.247 NA
+ENDROOT
+BRANCH   7  15
+ATOM     15  N   UNL     1      14.589  33.333  12.332  1.00  0.00    -0.357 N 
+ATOM     16  H   UNL     1      13.627  33.461  12.602  1.00  0.00    +0.142 HD
+ATOM     17  H   UNL     1      14.760  32.782  11.505  1.00  0.00    +0.142 HD
+ENDBRANCH   7  15
+TORSDOF 1
